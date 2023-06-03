@@ -1,3 +1,4 @@
 require("toggleterm").setup{
-    open_mapping = [[<Bslash>]]
+    open_mapping = [[<Bslash>]],
+    insert_mappings = false
 }
